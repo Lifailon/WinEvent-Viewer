@@ -2,4 +2,4 @@
 
 Интерфейс для командлета **Get-WinEvent**, с помощью которого можно вывести список всех доступных к просмотру журналов событий на локальном или удаленном компьютере. При выборе журнала, в статус отображается текущее количество хранящихся событий, при нажатие правой кнопки мыши (**ContextMenu**) можно выбрать в списке кол-во событий для отображения. При выборе события в таблице (**DataGridView**), вывод Message выводится в TextBox. Для фильтрации собитый по содержимому Message, используется TextBox над таблицей.
 
-![Image alt](https://github.com/Lifailon/WinPerf-Agent/blob/rsa/Screen/Report.jpg)
+![Image alt](https://github.com/Lifailon/WinEvent-Viewer/blob/rsa/Screen/Interface.jpg)
